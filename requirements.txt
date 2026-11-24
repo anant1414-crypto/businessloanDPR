@@ -1,0 +1,12 @@
+streamlit
+razorpay
+pandas
+python-docx
+openai
+pypdf
+pillow
+moviepy
+grogkey
+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
+pixabay
+27413836-5db617c282b790c8372b39fac

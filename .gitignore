@@ -1,0 +1,4 @@
+orders.db
+.streamlit/secrets.toml
+*.bak
+__pycache__/
